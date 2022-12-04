@@ -15,7 +15,7 @@ nltk.download('omw-1.4')
 from nltk.tokenize import RegexpTokenizer
 import pattern
 from pattern.en import sentiment
-from PIL import Image
+from Pillow import Image
 
 # online page configuration (MUST BE ABOVE EVERYTHING ELSE) 
 st.set_page_config(
