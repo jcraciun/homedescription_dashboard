@@ -1,0 +1,6 @@
+spacy
+textstat
+nltk
+pattern
+mysqlclient
+streamlit

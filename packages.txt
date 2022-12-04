@@ -1,0 +1,2 @@
+default-libmysqlclient-dev
+default-PIL-dev
