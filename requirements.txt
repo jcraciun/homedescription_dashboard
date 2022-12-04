@@ -4,3 +4,4 @@ nltk
 pattern
 mysqlclient
 streamlit
+pillow
